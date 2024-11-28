@@ -23,7 +23,9 @@ Generate a pokémon based on prompts and basic choices, also non-functional. Ori
 
 ## Globify
 
-Replicate Spotify's UI and UX, authenticating with it's API to show the user's liked songs, playlists and more. This project is hosted on erivero-'s [GitHub](https://github.com/erivero-p/Globant_Piscine_Globify)
+Replicate Spotify's UI and UX, authenticating with it's API to show the user's liked songs, playlists and more. I didn't do this project, but you can check one out on erivero-'s [repo](https://github.com/erivero-p/Globant_Piscine_Globify)
+
+### PS: I didn't do a single thing on this project, I'm just adding it since it
 
 ## Service DeskAI
 
