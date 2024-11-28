@@ -6,7 +6,7 @@ In this repository you'll find all the projects that we did during the Globant F
 
 ## 2048
 
-Replicate the famous game [2048][https://play2048.co/] using Vanilla HTML, CSS and JavaScript.
+Replicate the famous game [2048](https://play2048.co/) using Vanilla HTML, CSS and JavaScript.
 
 ## Image Gallery
 
@@ -23,8 +23,8 @@ Generate a pokémon based on prompts and basic choices, also non-functional. Ori
 
 ## Globify
 
-Replicate Spotify's UI and UX, authenticating with it's API to show the user's liked songs, playlists and more. This project is hosted on erivero-'s [GitHub][<https://github.com/erivero-p/Globant_Piscine_Globify>]
+Replicate Spotify's UI and UX, authenticating with it's API to show the user's liked songs, playlists and more. This project is hosted on erivero-'s [GitHub](https://github.com/erivero-p/Globant_Piscine_Globify)
 
 ## Service DeskAI
 
-Using React and Redux, create a ticketing service for broken objects. The back-end was done by [albagar4][https://github.com/albagar4] using MongoDB.
+Using React and Redux, create a ticketing service for broken objects. The back-end was done by [albagar4](https://github.com/albagar4) using MongoDB.
