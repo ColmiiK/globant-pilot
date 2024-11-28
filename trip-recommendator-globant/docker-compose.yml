@@ -1,0 +1,15 @@
+services:
+  triprecommendator:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    env_file: .env
+    environment:
+      GENERATIVE_AI_KEY: ${GENERATIVE_AI_KEY}
+      SECRET_KEY: ${SECRET_KEY}
+    container_name: triprecommendator
+    ports:
+      - "8000:8000"
+    restart: always
